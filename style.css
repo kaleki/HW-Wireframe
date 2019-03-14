@@ -43,7 +43,7 @@ section{
 
 	width: 495px;
 
-	/*overflow: auto;*/
+	
 
 	margin-bottom: 20px;
 
@@ -60,8 +60,7 @@ aside{
 
 	width: 445px;
 
-	/* There was to be a better way than manually selecting a px "height" for the aside! */
-	/* Sadly, I could not figure it out :( */
+	
 	height: 288px;
 
 	padding-top: 40px;
@@ -76,7 +75,7 @@ footer{
 
 	clear: both;
 
-	/*overflow: auto;*/
+	
 }
 
 
